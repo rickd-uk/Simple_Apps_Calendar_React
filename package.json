@@ -1,0 +1,28 @@
+{
+  "name": "calendar_react",
+  "version": "1.0.0",
+  "description": "Converting a vanilla JS app to React",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rickd-uk/Simple_Apps_Calendar_React.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "rickd-uk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rickd-uk/Simple_Apps_Calendar_React/issues"
+  },
+  "homepage": "https://github.com/rickd-uk/Simple_Apps_Calendar_React#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "snowpack": "^3.8.8"
+  }
+}
